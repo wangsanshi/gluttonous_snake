@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gluttonous_snake", "gluttonous_snake\gluttonous_snake.vcxproj", "{25864A02-CF26-4D2C-9F1A-8C3441D9C202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Debug|x64.ActiveCfg = Debug|x64
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Debug|x64.Build.0 = Debug|x64
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Debug|x86.ActiveCfg = Debug|Win32
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Debug|x86.Build.0 = Debug|Win32
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Release|x64.ActiveCfg = Release|x64
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Release|x64.Build.0 = Release|x64
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Release|x86.ActiveCfg = Release|Win32
+		{25864A02-CF26-4D2C-9F1A-8C3441D9C202}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD920D35-6D7A-45F6-ADC9-95A986A60B5D}
+	EndGlobalSection
+EndGlobal
